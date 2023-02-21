@@ -24,7 +24,7 @@ colorePreferito = prompt("Qual'è il tuo colore preferito ?")
 console.log (colorePreferito)
 
 
- document.writeln("Ciao " + [nomeUtente] + [cognomeUtente] + [colorePreferito] + [numeroScelto], "!" )
+ document.writeln("Ciao " + nomeUtente + cognomeUtente + colorePreferito + numeroScelto, "!" )
 
 
 /* UTILIZZO TEMPLATE LITERALS */
